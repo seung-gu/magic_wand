@@ -3,6 +3,6 @@
 
 
 
-Arduino 33 BLE version needs 9.5.0 version of nordicnrf52 platform,
+Arduino 33 BLE version needs 9.5.0 version of nordicnrf52 platform in order to run in PlatformIO.
 
-thus, nordicnrf52@9.5.0 is necessary.
+See details in platformio.ini file
